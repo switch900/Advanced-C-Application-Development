@@ -10,3 +10,18 @@ and Database First), Repository Pattern, Object Serialization and Deserializatio
 Services (WCF, WEB API, and Microservices), Asynchronous Programming with async/await, C# Design Pattern 
 Strategies, Dependency Injection and MEF. Labs and assignments reinforce best practices in the use of
 architectural patterns. 
+
+<ul>
+  <li>Create UI with HTML5, CSS3 and Bootstrap.</li>
+  <li>Use ADO.NET and then Entity Framework to create Database First, Model First, Code First Designs.</li>
+  <li>Implement Repository Pattern.</li>
+  <li>Serialize and Deserialize Objects in .NET Framework.</li>
+  <li>Create, Host and Test .NET Services (WCF, WEB API, and Microservices with NServiceBUS 6).</li>
+  <li>Consume .NET Services by using various tools.</li>
+  <li>Design Multi-Threaded Applications.</li>
+  <li>Use async/await.</li>
+  <li>Create Dependency Injection Container.</li>
+  <li>Use C# Design Patterns to write high quality code.</li>
+  <li>Design line of business line applications.</li>
+  <li>Deploy advanced C# software applications.</li>
+  </ul>
