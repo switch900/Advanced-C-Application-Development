@@ -9,7 +9,9 @@ Topics include: A review of ADO.NET and then a focus on Entity Framework (Code F
 and Database First), Repository Pattern, Object Serialization and Deserialization, Discussions include: 
 Services (WCF, WEB API, and Microservices), Asynchronous Programming with async/await, C# Design Pattern 
 Strategies, Dependency Injection and MEF. Labs and assignments reinforce best practices in the use of
-architectural patterns. 
+architectural patterns. <br>
+
+Upon successful completion of this course, the student will be able to:<br>
 
 <ul>
   <li>Create UI with HTML5, CSS3 and Bootstrap.</li>
