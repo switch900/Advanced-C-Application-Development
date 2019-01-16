@@ -1,4 +1,4 @@
-# Advanced-C-Application-Development
+# Advanced-C-Sharp Application-Development
 
 This hands-on course continues from COMP 2614 and prepares those who are already C# programmers 
 for advanced C# application development. Students who also have HTML5, CSS3, JavaScript and jQuery
