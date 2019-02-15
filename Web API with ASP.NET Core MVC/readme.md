@@ -1,6 +1,6 @@
 By Rick Anderson and Mike Wasson
 
-<h2>This tutorial teaches the basics of building a web API with ASP.NET Core.</h2>
+<h3>This tutorial teaches the basics of building a web API with ASP.NET Core.</h3>
 
 In this tutorial, you learn how to:
 <ul>
@@ -14,5 +14,5 @@ In this tutorial, you learn how to:
 <li>Specify return values.</li>
 <li>Call the web API with Postman.</li>
 <li>Call the web API with jQuery.</li>
-</ul>
+</ul><br>
 At the end, you have a web API that can manage "to-do" items stored in a relational database.
