@@ -1,0 +1,16 @@
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\ProductsApp.exe.config
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\ProductsApp.exe
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\ProductsApp.pdb
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.Spatial.dll
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\switc\source\repos\ProductService\ProductsApp\bin\Debug\Microsoft.Spatial.xml
+C:\Users\switc\source\repos\ProductService\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\switc\source\repos\ProductService\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\switc\source\repos\ProductService\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\switc\source\repos\ProductService\ProductsApp\obj\Debug\ProductsApp.exe
+C:\Users\switc\source\repos\ProductService\ProductsApp\obj\Debug\ProductsApp.pdb
