@@ -1,4 +1,4 @@
-<ASP.NET Core OData now Available Tutorial</h3>
+<h3>ASP.NET Core OData now Available Tutorial</h3>
 by Sam Xu
 
 <a href="https://blogs.msdn.microsoft.com/odatateam/2018/07/03/asp-net-core-odata-now-available/">Click here to view tutorial.</a>
