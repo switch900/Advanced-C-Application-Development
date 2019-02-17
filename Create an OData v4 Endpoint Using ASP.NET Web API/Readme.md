@@ -2,6 +2,7 @@
 Contributors
 Mike Wasson  Paul Goldman  Genevieve Warren  Rick Anderson  Scott Addie<br><br>
 
+<a href="https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint">View tutorial here.</a><br>
 The Open Data Protocol (OData) is a data access protocol for the web.
 OData provides a uniform way to query and manipulate data sets through CRUD operations (create, read, update, and delete).
 
