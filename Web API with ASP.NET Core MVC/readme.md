@@ -2,6 +2,7 @@ By Rick Anderson and Mike Wasson
 
 <h3>This tutorial teaches the basics of building a web API with ASP.NET Core.</h3>
 
+<a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio">View tutorial here.</a><br><br>
 In this tutorial, you learn how to:
 <ul>
 <li>Create a web API project.</li>
