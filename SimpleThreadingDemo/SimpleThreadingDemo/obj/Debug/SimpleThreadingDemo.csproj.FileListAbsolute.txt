@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe.config
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.pdb
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.exe
+C:\Users\User\source\repos\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.pdb
