@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\bin\Debug\ThreadingLab3.exe.config
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\bin\Debug\ThreadingLab3.exe
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\bin\Debug\ThreadingLab3.pdb
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.Form1.resources
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.Properties.Resources.resources
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.exe
+C:\Users\User\source\repos\ThreadingLab3\ThreadingLab3\obj\Debug\ThreadingLab3.pdb
